@@ -4,9 +4,5 @@
     "tittle": "Estudiar react",
     "description": "estudiar microservicios"
   },
-  {
-    "id": 2,
-    "tittle": "Estudiar bd",
-    "description": "estudiar bd"
-  }
+  { "id": 2, "title": "una cosa", "description": "otra cosa" }
 ]
